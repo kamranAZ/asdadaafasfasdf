@@ -1,0 +1,26 @@
+.mainDrop:hover ul{
+    display: block;
+}
+.top-header{
+    background: green;
+    color: #fff;
+}
+.search-category input, .search-category select{
+    border: none;
+}
+.search-category input:focus, .search-category select:focus{
+    box-shadow: none;
+}
+.search-category{
+    border: 1px solid grey;
+    border-radius: 25px;
+    padding: 8px 19px;
+}
+.logokam{
+    position: relative;
+}
+.logomake{
+    position: absolute;
+    top: 40%;
+    left: 95%;
+}
